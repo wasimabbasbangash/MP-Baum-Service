@@ -4,18 +4,18 @@
     "paragraph": "Baumpflege mit Herz und Verstand."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "In unserer Firma verpflichten wir uns der Exzellenz in der Baumpflege und Gartenwartung. Mit jahrelanger Erfahrung und tiefem Fachwissen bieten wir umfassende Lösungen, die Sicherheit, Zuverlässigkeit und Kundenzufriedenheit in den Vordergrund zu stellen. Unser Ziel ist es, die Gesundheit und Schönheit Ihrer Grünflächen zu bewahren und zu fördern, indem wir individuell auf Ihre Bedürfnisse eingehen. Wählen Sie uns, um einen vertrauensvollen Partner an Ihrer Seite zu haben, der sich mit Leidenschaft und Sorgfalt um Ihre Bäume und Ihren Garten kümmert.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Branchenexperten mit Leidenschaft.",
+      "Maßgeschneiderte Lösungen für Sie.",
+      "Modernste Techniken & Ausrüstung."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Sicherheit & Zuverlässigkeit garantiert.",
+      "Nachhaltige Praktiken im Fokus.",
+      "Einzigartige Betreuung jedes Grünraums.",
+      "Effizienz durch Erfahrung.",
+      "Mehr als ein Dienstleister: ein Partner."
     ]
   },
   "Gallery": [
@@ -53,33 +53,38 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Baumpflege",
+      "text": "Wir bieten professionelle Baumpflege, um Gesundheit und Schönheit Ihrer Bäume zu fördern."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Baumkontrolle",
+      "text": "Bei der Baumkontrolle führen wir gründliche Untersuchungen durch, um den Zustand Ihrer Bäume zu bewerten und potenzielle Risiken frühzeitig zu erkennen."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Baumsanierung",
+      "text": "Unsere Baumsanierung revitalisiert geschwächte Bäume, fördert ihre Regeneration und stellt ihre ursprüngliche Vitalität wieder her."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Baumsicherung",
+      "text": "Unsere Baumsicherung umfasst Maßnahmen zur Stabilisierung und zum Schutz Ihrer Bäume, um ihre Standfestigkeit zu gewährleisten und Sicherheit zu bieten."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Risikofällungen",
+      "text": "Risikofällungen werden bei uns sorgfältig durchgeführt, um Bäume, die eine potenzielle Gefahr darstellen, sicher und kontrolliert zu entfernen."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Gartenpflege",
+      "text": "Unsere Gartenpflege sorgt für ein gesundes Wachstum und eine prächtige Blüte Ihres Gartens, indem wir auf die individuellen Bedürfnisse jeder Pflanze eingehen."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Baumfällarbeiten",
+      "text": "Bei Baumfällarbeiten entfernen wir Bäume fachgerecht und sicher, unabhängig von ihrer Größe oder Lage, um Platz für Neues zu schaffen oder Risiken zu minimieren."
     }
   ],
   "Testimonials": [
