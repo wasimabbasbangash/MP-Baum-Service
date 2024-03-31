@@ -52,37 +52,37 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-tree",
       "name": "Baumpflege",
       "text": "Wir bieten professionelle Baumpflege, um Gesundheit und Schönheit Ihrer Bäume zu fördern."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-pagelines",
       "name": "Baumkontrolle",
       "text": "Bei der Baumkontrolle führen wir gründliche Untersuchungen durch, um den Zustand Ihrer Bäume zu bewerten und potenzielle Risiken frühzeitig zu erkennen."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-leaf",
       "name": "Baumsanierung",
       "text": "Unsere Baumsanierung revitalisiert geschwächte Bäume, fördert ihre Regeneration und stellt ihre ursprüngliche Vitalität wieder her."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-gavel",
       "name": "Baumsicherung",
       "text": "Unsere Baumsicherung umfasst Maßnahmen zur Stabilisierung und zum Schutz Ihrer Bäume, um ihre Standfestigkeit zu gewährleisten und Sicherheit zu bieten."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa  fa-scissors",
       "name": "Risikofällungen",
       "text": "Risikofällungen werden bei uns sorgfältig durchgeführt, um Bäume, die eine potenzielle Gefahr darstellen, sicher und kontrolliert zu entfernen."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa  fa-trash",
       "name": "Gartenpflege",
       "text": "Unsere Gartenpflege sorgt für ein gesundes Wachstum und eine prächtige Blüte Ihres Gartens, indem wir auf die individuellen Bedürfnisse jeder Pflanze eingehen."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa  fa-info",
       "name": "Baumfällarbeiten",
       "text": "Bei Baumfällarbeiten entfernen wir Bäume fachgerecht und sicher, unabhängig von ihrer Größe oder Lage, um Platz für Neues zu schaffen oder Risiken zu minimieren."
     }
@@ -90,39 +90,39 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Hervorragende Baumpflege! Unsere Bäume haben noch nie besser ausgesehen. Top Service und Beratung!\"",
+      "name": "Stefan Lang"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Die Baumkontrolle war gründlich und professionell – ich fühle mich jetzt viel sicherer.\"",
+      "name": "Maximilian Becker"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Dank der Baumsanierung blühen meine alten Bäume wieder auf. Unschätzbare Arbeit!\"",
+      "name": "Felix Schmid"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Die Gartenpflege hat unser grünes Paradies verwandelt. Vielen Dank für die außergewöhnliche Arbeit.\"",
+      "name": "Lena Krause"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Die Risikofällungen wurden mit größter Sorgfalt und ohne Schaden für den Garten durchgeführt.\"",
+      "name": "Lukas Müller"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipising elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Die Baumsicherung hat unsere Gartenlandschaft verändert. Großartige Präzision und Fürsorge!\"",
+      "name": "Sophia Wagner"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "liebknechtstraße 16, Kamp Bornhofen, De 56341 ",
+    "phone": "+49 152 535 517 08",
+    "email": "info@mpbaumserice.de",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"

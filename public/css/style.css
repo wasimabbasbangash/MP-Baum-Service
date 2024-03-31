@@ -69,7 +69,7 @@ hr {
   width: 70px;
   text-align: center;
   position: relative;
-  background: #1e7a46;
+  background: #357960;
   margin-bottom: 20px;
   border: 0;
 }
@@ -89,7 +89,7 @@ hr {
   transition: all 0.8s;
 }
 #menu.navbar-default {
-  background-color: #2ba94a;
+  background-color: #357960;
   border-color: rgba(91, 203, 124, 0);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
@@ -118,7 +118,7 @@ hr {
   bottom: -1px;
   width: 0;
   height: 2px;
-  background: linear-gradient(to right, #6edb00 0%, #00f64a 100%);
+  background: #357960;
   content: "";
   transition: width 0.2s;
 }
@@ -139,7 +139,7 @@ hr {
   bottom: -1px !important;
   width: 100% !important;
   height: 2px !important;
-  background: linear-gradient(to right, #6edb00 0%, #00f64a 100%) !important;
+  background: #357960;
   content: "" !important;
   transition: width 0.2s !important;
 }
@@ -149,10 +149,10 @@ hr {
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: #fff;
-  border-color: #2ed01f;
+  border-color: #357960;
 }
 .navbar-default .navbar-toggle:hover > .icon-bar {
-  background-color: #21b117;
+  background-color: #357960;
 }
 .section-title {
   margin-bottom: 70px;
@@ -166,7 +166,7 @@ hr {
 .section-title h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #519a48 0%, #2ba94a 100%);
+  background: #357960;
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -181,7 +181,7 @@ hr {
   text-transform: uppercase;
   color: #fff;
   background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #519a48 0%, #2ba94a 100%);
+  background: #357960;
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -272,7 +272,7 @@ header .intro-text {
   height: 100px;
   padding: 30px 0;
   border-radius: 50%;
-  background: linear-gradient(to right, #519a48 0%, #2ba94a 100%);
+  background: #357960;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 /* About Section */
@@ -291,7 +291,7 @@ header .intro-text {
 #about h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #519a48 0%, #2ba94a 100%);
+  background: #357960;
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -326,14 +326,15 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #519a48 0%, #2ba94a 100%);
-  color: #fff;
+  /* background: linear-gradient(to right, #519a48 0%, #2ba94a 100%); */
+  background: #f6f6f6;
+  color: #272727;
 }
 #services .service-desc {
   margin: 10px 10px 20px;
 }
 #services h2 {
-  color: #fff;
+  color: #272727;
 }
 #services .section-title h2::after {
   position: absolute;
@@ -350,7 +351,7 @@ header .intro-text {
   width: 120px;
   height: 120px;
   padding: 40px 0;
-  background: linear-gradient(to right, #1cc26a 0%, #9ad224 100%);
+  background: #357960;
   border-radius: 50%;
   color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
@@ -358,10 +359,10 @@ header .intro-text {
 #services h3 {
   font-weight: 500;
   padding: 5px 0;
-  color: #fff;
+  color: #272727;
 }
 #services p {
-  color: rgba(255, 255, 255, 0.75);
+  color: #272727;
 }
 #services .service-desc {
   margin-bottom: 40px;
@@ -383,8 +384,8 @@ header .intro-text {
   position: absolute;
   text-align: center;
   margin: 0 auto;
-  color: #fff;
-  background: linear-gradient(to right, #519a48a1 0%, #2ba94a87 50%);
+  color: #272727;
+  background: #357960;
   padding: 30% 0 0;
   height: 100%;
   width: 100%;
@@ -472,7 +473,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #1cc26a 0%, #2ba94a 100%);
+  background: #357960;
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
