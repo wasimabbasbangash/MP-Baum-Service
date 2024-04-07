@@ -316,7 +316,7 @@ header .intro-text {
   background: #fff;
   border-right: 0;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
-  max-height: 60rem;
+  min-height: 53rem;
   object-fit: cover;
 }
 #about p {
