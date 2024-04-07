@@ -1,5 +1,6 @@
 import { useState } from "react";
 import emailjs from "emailjs-com";
+import { ToastContainer, toast } from "react-toastify";
 import React from "react";
 
 const initialState = {
@@ -18,27 +19,23 @@ export const Contact = (props) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(name, email, message);
-
-    
-      /* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */
-
 
     emailjs
       .sendForm(
-        "service_vi7yox1", //serviceId
+        "service_l3h7i0f", //serviceId
         // "YOUR_TEMPLATE_ID", //templateId
-        "template_047ar0o",
+        "template_uahe2z9",
         e.target,
-        "VIaRpZrENAbawC27u" //publicKey
+        "eNtWkdavcHiquH7pe123" //publicKey
       )
       .then(
         (result) => {
-          console.log(result.text);
+          toast.success("Nachricht erfolgreich gesendet!")
           clearState();
         },
         (error) => {
-          console.log(error.text);
+          toast.error("Es ist ein Fehler aufgetreten!")
+          clearState();
         }
       );
   };
@@ -160,13 +157,14 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2024. Design by Waseem Abbas (Orbit Owl Solutions)
+            &copy; 2024. Design by Waseem Abbas (Orbit Owl Solutions).
             {/* <a href='http://www.templatewire.com' rel='nofollow'>
               TemplateWire
             </a> */}
           </p>
         </div>
       </div>
+      <ToastContainer position="top-center"/>
     </div>
   );
 };
