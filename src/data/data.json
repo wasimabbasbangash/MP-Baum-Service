@@ -20,32 +20,32 @@
   },
   "Gallery": [
     {
-      "title": "View Image",
+      "title": "Bild anzeigen",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "View Image",
+      "title": "Bild anzeigen",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "View Image",
+      "title": "Bild anzeigen",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "View Image",
+      "title": "Bild anzeigen",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "View Image",
+      "title": "Bild anzeigen",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "View Image",
+      "title": "Bild anzeigen",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     }
@@ -120,13 +120,13 @@
     }
   ],
   "Contact": {
-    "address": "liebknechtstraße 16, Kamp Bornhofen, De 56341 ",
+    "address": "Liebknechtstraße 16",
+    "address2": "56341 Kamp Bornhofen",
     "phone": "+49 1525 355 1708",
     "phone2": "+49 6773 915 9566",
-    "email": "info@mpbaumserice.de",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "email": "info@mpbaumservice.de",
+    "instagram": "https://www.instagram.com/mp_baum_service/",
+    "facebook": "https://www.facebook.com/profile.php?id=100054604682530"
   },
   "Features": [
     {

@@ -63,7 +63,7 @@ export const Contact = (props) => {
                           id='name'
                           name='name'
                           className='form-control'
-                          placeholder='Name'
+                          placeholder='Name*'
                           required
                           onChange={handleChange}
                           value={name}
@@ -94,7 +94,7 @@ export const Contact = (props) => {
                           id='email'
                           name='email'
                           className='form-control'
-                          placeholder='E-mail'
+                          placeholder='E-mail*'
                           required
                           onChange={handleChange}
                           value={email}
@@ -109,7 +109,7 @@ export const Contact = (props) => {
                       id='message'
                       className='form-control'
                       rows='4'
-                      placeholder='Nachricht'
+                      placeholder='Nachricht*'
                       required
                       onChange={handleChange}
                       value={message}
@@ -131,6 +131,8 @@ export const Contact = (props) => {
                   <i className='fa fa-map-marker'></i> Adresse
                 </span>
                 {props.data ? props.data.address : "loading"}
+                <br/>
+                {props.data ? props.data.address2 : "loading"}
               </p>
             </div>
             <div className='contact-item'>
@@ -157,18 +159,13 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
-                    <i className='fa fa-facebook'></i>
+                    <a href={props.data ? props.data.instagram : "/"} target="_blank" rel="noopener noreferrer">
+                      <i className='fa fa-instagram'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className='fa fa-twitter'></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className='fa fa-youtube'></i>
+                    <a href={props.data ? props.data.facebook : "/"} target="_blank" rel="noopener noreferrer">
+                      <i className='fa fa-facebook'></i>
                     </a>
                   </li>
                 </ul>
@@ -180,7 +177,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2024. Design by Waseem Abbas (Orbit Owl Solutions).
+          &copy; 2024. Design und Entwicklung: Waseem Abbas & Parth Gajera (Orbit Owl Solutions).
             {/* <a href='http://www.templatewire.com' rel='nofollow'>
               TemplateWire
             </a> */}
