@@ -23,7 +23,7 @@ const App = () => {
   }, []);
 
   return (
-    <div>
+    <div style={{width:'100%', overflowX:'clip'}}>
       <Navigation />
       <Header data={landingPageData.Header} />
       <Services data={landingPageData.Services} />
